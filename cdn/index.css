@@ -1,0 +1,8 @@
+html, body {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+.main {
+    padding: 40;
+    text-align: center;
+}
